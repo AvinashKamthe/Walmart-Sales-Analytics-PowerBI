@@ -68,7 +68,8 @@ This project is an interactive **Walmart Sales Analytics** dashboard built in Po
 
 > Replace the image path below with your actual file name.
 
-![Walmart Sales Analytics Dashboard](./images/dashboard-overview.png) [web:7]
+![Walmart Sales Analytics Dashboard]<img width="943" height="517" alt="image" src="https://github.com/user-attachments/assets/8af39736-3fc7-4810-bb72-5dd6b496fe6a" />
+
 
 ---
 
